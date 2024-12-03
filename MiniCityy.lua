@@ -12,6 +12,8 @@ local Window = Fluent:CreateWindow({
     MinimizeKey = Enum.KeyCode.LeftAlt
 })
 
+print("Aqui man")
+
 local Tabs = {
     Visual = Window:AddTab({ Title = "Visuals", Icon = "eye" }),
     Farm = Window:AddTab({ Title = "Farm", Icon = "mouse" }),
