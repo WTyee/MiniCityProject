@@ -32,3 +32,5 @@ print("Ai ai")
 print("Ai pain")
 
 print("Pare pfv")
+
+print("OU")
