@@ -27,6 +27,8 @@ local Options = Fluent.Options
 
 Fluent:Notify({ Title = "Notificação", Content = "Script", SubContent = "Script carregou com sucesso!", Duration = 5})
 
+print("Champa")
+
 -- // Visual Button // --
 
 print("Ai ai")
