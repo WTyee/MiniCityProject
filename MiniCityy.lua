@@ -30,3 +30,5 @@ Fluent:Notify({ Title = "Notificação", Content = "Script", SubContent = "Scrip
 print("Ai ai")
 
 print("Ai pain")
+
+print("Pare pfv")
