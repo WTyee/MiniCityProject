@@ -27,16 +27,7 @@ local Options = Fluent.Options
 
 Fluent:Notify({ Title = "Notificação", Content = "Script", SubContent = "Script carregou com sucesso!", Duration = 5})
 
-print("Champa")
-
 -- // Visual Button // --
 
-print("Aquin Aquin")
 
-print("Ai ai")
-
-print("Ai pain")
-
-print("Pare pfv")
-
-print("OU")
+local PlayerEspToggle = Tabs.Visual:AddToggle("EspTogglePlayer", {Title = "Player Esp", Default = false })
