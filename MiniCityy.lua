@@ -31,6 +31,8 @@ print("Champa")
 
 -- // Visual Button // --
 
+print("Aquin Aquin")
+
 print("Ai ai")
 
 print("Ai pain")
